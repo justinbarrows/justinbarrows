@@ -1,8 +1,6 @@
-# Hello, I'm Justin
+## Welcome to my profile <img src="https://raw.githubusercontent.com/justinbarrows/justinbarrows/master/ufo.gif" width="30px">
 
----
-
-## I'm currently a Computer Science student
+My name is Justin, I am currently a freshman studying computer science at a local community college in the US.
 
 ---
 
