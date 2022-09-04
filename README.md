@@ -4,7 +4,7 @@
 
 ---
 
-<img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinbarrows&show_icons=true&hide_borders=true&count_private=true&theme_tokyonight" />
+<img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinbarrows&show_icons=true&hide_borders=true&count_private=true&theme=tokyonight" />
 
 <!--
 **justinbarrows/justinbarrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
