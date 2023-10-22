@@ -1,6 +1,6 @@
 # Welcome to my profile <img src="https://raw.githubusercontent.com/justinbarrows/justinbarrows/master/logo-batman.gif" width="40px">
 
-My name is Justin, I am a freshman studying computer science at a local community college in the US. Currently learning Java in school, and various other things in my free time.
+<!--My name is Justin, I am a freshman studying computer science at a local community college in the US. Currently learning Java in school, and various other things in my free time.-->
 
 <!--### 📫 How to reach me: -->
 
